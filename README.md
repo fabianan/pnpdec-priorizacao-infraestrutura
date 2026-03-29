@@ -2,7 +2,7 @@
 
 **Drenagem, Saneamento e Contenção de Encostas**
 
-Trabalho desenvolvido no âmbito do **MBA em Ciência de Dados e Inteligência Artificial Aplicadas (2025)** da Escola Nacional de Administração Pública — ENAP, na Disciplina Integradora Aplicada: Laboratório de Casos — Políticas Públicas de Infraestrutura.
+Trabalho desenvolvido no âmbito do **MBA em Ciência de Dados e Inteligência Artificial Aplicadas** da Escola Nacional de Administração Pública — ENAP, na Disciplina Integradora Aplicada: Laboratório de Casos — Políticas Públicas de Infraestrutura.
 
 ---
 
@@ -64,7 +64,7 @@ Os microdados brutos **não estão versionados** neste repositório por restriç
 |---|---|---|
 | Atlas de Vulnerabilidade Social (IVS) | IPEA | [ivs.ipea.gov.br](https://ivs.ipea.gov.br) — baixar `atlasivs_dadosbrutos_pt_v2.xlsx` |
 | CadÚnico — amostra dez/2018 | MDS/SAGICAD | [aplicacoes.mds.gov.br/sagi](https://aplicacoes.mds.gov.br/sagi/portal/) |
-| Relatório Gerencial de Resposta a Desastres | MIDR/SEDEC | [s2id.mi.gov.br](https://s2id.mi.gov.br) — exportar relatório gerencial |
+| Relatório Gerencial de Resposta a Desastres | MIDR/SEDEC | [s2id.mi.gov.br](https://s2id.mi.gov.br) — exportar relatório gerencial de respostas |
 | COBRADE | MIDR/SEDEC | Incluído em `data/raw/cobrade.csv` |
 
 Após o download, salve os arquivos em `data/raw/` ou no caminho equivalente no Google Drive conforme indicado nos notebooks.
@@ -138,11 +138,12 @@ Instalação automática: cada notebook instala as dependências via `pip` na pr
 
 ## Autores
 
-**Fabiana Ferreira do Nascimento** — validação empírica, cruzamento COBRADE/SEDEC e score ampliado
+**Fabiana Ferreira do Nascimento**
 
-**Francisco Carlos Molina Duarte Júnior** — pipeline de priorização, integração IVS + CadÚnico e governança LGPD
+**Francisco Carlos Molina Duarte Júnior**
 
-MBA em Ciência de Dados e IA Aplicadas — ENAP, turma 2025
+
+MBA em Ciência de Dados e IA Aplicadas — ENAP
 
 ---
 
