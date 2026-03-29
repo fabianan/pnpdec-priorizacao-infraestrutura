@@ -1,0 +1,15 @@
+# Dados brutos grandes — baixar conforme data/README.md
+data/raw/*.xlsx
+data/raw/*.zip
+data/raw/base_amostra_*/
+
+# Gerados pelos notebooks — não versionar
+data/processed/*.csv
+data/processed/*.txt
+data/graficos/*.png
+
+# Manter estrutura de pastas
+!data/raw/cobrade.csv
+!data/processed/.gitkeep
+!data/graficos/.gitkeep
+!data/raw/README.md
