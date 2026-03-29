@@ -55,6 +55,13 @@ pnpdec-priorizacao-infraestrutura/
 ```
 
 ---
+## Executar no Google Colab
+
+| Notebook | Descrição | Abrir |
+|---|---|---|
+| `01_infraestrutura.ipynb` | Pipeline base: IVS + CadÚnico | [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fabianan/pnpdec-priorizacao-infraestrutura/blob/main/notebooks/01_infraestrutura.ipynb) |
+| `02_infraestrutura_validacao.ipynb` | Validação empírica | [![Abrir no Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fabianan/pnpdec-priorizacao-infraestrutura/blob/main/notebooks/02_infraestrutura_validacao.ipynb) |
+
 
 ## Dados utilizados
 
