@@ -1,0 +1,66 @@
+﻿COBRADE,COBRADE_NUM,GRUPO,SUBGRUPO,TIPO,SUBTIPO
+1.1.1.1.0,11110,1. NATURAIS,1. Geológico,1. Terremoto,1. Tremor de terra
+1.1.1.2.0,11120,1. NATURAIS,1. Geológico,1. Terremoto,2. Tsunami
+1.1.2.0.0,11200,1. NATURAIS,1. Geológico,2. Emanação vulcânica,0
+1.1.3.1.1,11311,1. NATURAIS,1. Geológico,"3. Movimento de massa - Quedas, tombamentos e rolamentos",1. Blocos
+1.1.3.1.2,11312,1. NATURAIS,1. Geológico,"3. Movimento de massa - Quedas, tombamentos e rolamentos",2. Lascas
+1.1.3.1.3,11313,1. NATURAIS,1. Geológico,"3. Movimento de massa - Quedas, tombamentos e rolamentos",3. Matacães
+1.1.3.1.4,11314,1. NATURAIS,1. Geológico,"3. Movimento de massa - Quedas, tombamentos e rolamentos",4. Lajes
+1.1.3.2.1,11321,1. NATURAIS,1. Geológico,3. Movimento de massa - Deslizamentos,1. Deslizamentos de solo e/ou rocha
+1.1.3.3.1,11331,1. NATURAIS,1. Geológico,3. Movimento de massa - Corridas de massa,1. Solo/Lama
+1.1.3.3.2,11332,1. NATURAIS,1. Geológico,3. Movimento de massa - Corridas de massa,2. Rocha/Detrito
+1.1.3.4.0,11340,1. NATURAIS,1. Geológico,3. Movimento de massa - Subsidências e colapsos,0
+1.1.4.1.0,11410,1. NATURAIS,1. Geológico,4. Erosão,1. Erosão costeira/Marinha
+1.1.4.2.0,11420,1. NATURAIS,1. Geológico,4. Erosão,2. Erosão de margem fluvial
+1.1.4.3.1,11431,1. NATURAIS,1. Geológico,4. Erosão,3. Erosão continental - Laminar
+1.1.4.3.2,11432,1. NATURAIS,1. Geológico,4. Erosão,3. Erosão continental - Ravinas
+1.1.4.3.3,11433,1. NATURAIS,1. Geológico,4. Erosão,3. Erosão continental - Boçorocas
+1.2.1.0.0,12100,1. NATURAIS,2. Hidrológico,1. Inundações,0
+1.2.2.0.0,12200,1. NATURAIS,2. Hidrológico,2. Enxurradas,0
+1.2.3.0.0,12300,1. NATURAIS,2. Hidrológico,3. Alagamentos,0
+1.3.1.1.1,13111,1. NATURAIS,3. Meteorológico,1. Ciclones,1. Ventos costeiros (mobilidade de dunas)
+1.3.1.1.2,13112,1. NATURAIS,3. Meteorológico,1. Ciclones,2. Marés de tempestade (ressaca)
+1.3.1.2.0,13120,1. NATURAIS,3. Meteorológico,1. Ciclones - Frentes frias/Zonas de convergência,0
+1.3.2.1.1,13211,1. NATURAIS,3. Meteorológico,2. Tempestades - Tempestade local/Convectiva,1. Tornados
+1.3.2.1.2,13212,1. NATURAIS,3. Meteorológico,2. Tempestades - Tempestade local/Convectiva,2. Tempestade de raios
+1.3.2.1.3,13213,1. NATURAIS,3. Meteorológico,2. Tempestades - Tempestade local/Convectiva,3. Granizo
+1.3.2.1.4,13214,1. NATURAIS,3. Meteorológico,2. Tempestades - Tempestade local/Convectiva,4. Chuvas intensas
+1.3.2.1.5,13215,1. NATURAIS,3. Meteorológico,2. Tempestades - Tempestade local/Convectiva,5. Vendaval
+1.3.3.1.0,13310,1. NATURAIS,3. Meteorológico,3. Temperaturas extremas - Onda de calor,0
+1.3.3.2.1,13321,1. NATURAIS,3. Meteorológico,3. Temperaturas extremas - Onda de frio,1. Friagem
+1.3.3.2.2,13322,1. NATURAIS,3. Meteorológico,3. Temperaturas extremas - Onda de frio,2. Geadas
+1.4.1.1.0,14110,1. NATURAIS,4. Climatológico,1. Seca,1. Estiagem
+1.4.1.2.0,14120,1. NATURAIS,4. Climatológico,1. Seca,2. Seca
+1.4.1.3.1,14131,1. NATURAIS,4. Climatológico,3. Incêndio florestal,1. Incêndios em áreas protegidas
+1.4.1.3.2,14132,1. NATURAIS,4. Climatológico,3. Incêndio florestal,2. Incêndios em áreas não protegidas
+1.4.1.4.0,14140,1. NATURAIS,4. Climatológico,4. Baixa umidade do ar,0
+1.5.1.1.0,15110,1. NATURAIS,5. Biológico,1. Epidemias,1. Doenças infecciosas virais
+1.5.1.2.0,15120,1. NATURAIS,5. Biológico,1. Epidemias,2. Doenças infecciosas bacterianas
+1.5.1.3.0,15130,1. NATURAIS,5. Biológico,1. Epidemias,3. Doenças infecciosas parasíticas
+1.5.1.4.0,15140,1. NATURAIS,5. Biológico,1. Epidemias,4. Doenças infecciosas fúngicas
+1.5.2.1.0,15210,1. NATURAIS,5. Biológico,2. Infestações/Pragas,1. Infestações de animais
+1.5.2.2.1,15221,1. NATURAIS,5. Biológico,2. Infestações/Pragas,2. Marés vermelhas
+1.5.2.2.2,15222,1. NATURAIS,5. Biológico,2. Infestações/Pragas,2. Cianobactérias em reservatórios
+1.5.2.3.0,15230,1. NATURAIS,5. Biológico,2. Infestações/Pragas,3. Outras infestações
+2.1.1.1.0,21110,2. TECNOLÓGICOS,1. Substâncias radioativas,1. Desastres siderais,1. Queda de satélite (radionuclídeos)
+2.1.2.1.0,21210,2. TECNOLÓGICOS,1. Substâncias radioativas,2. Substâncias radioativas em pesquisas/indústrias/usinas nucleares,1. Fontes radioativas em processos de produção
+2.1.3.1.0,21310,2. TECNOLÓGICOS,1. Substâncias radioativas,3. Poluição por resíduos radioativos,1. Outras fontes de liberação de radionuclídeos
+2.2.1.1.0,22110,2. TECNOLÓGICOS,2. Produtos perigosos,1. Desastres em plantas/distritos industriais,1. Liberação de químicos para atmosfera por explosão/incêndio
+2.2.2.1.0,22210,2. TECNOLÓGICOS,2. Produtos perigosos,2. Contaminação da água,1. Liberação de químicos em sistemas de água potável
+2.2.2.2.0,22220,2. TECNOLÓGICOS,2. Produtos perigosos,2. Contaminação da água,2. Derramamento de químicos em ambiente lacustre/fluvial/marinho/aquífero
+2.2.3.1.0,22310,2. TECNOLÓGICOS,2. Produtos perigosos,3. Conflitos bélicos,1. Liberação de químicos por ações militares
+2.2.4.1.0,22410,2. TECNOLÓGICOS,2. Produtos perigosos,4. Transporte de produtos perigosos,1. Transporte rodoviário
+2.2.4.2.0,22420,2. TECNOLÓGICOS,2. Produtos perigosos,4. Transporte de produtos perigosos,2. Transporte ferroviário
+2.2.4.3.0,22430,2. TECNOLÓGICOS,2. Produtos perigosos,4. Transporte de produtos perigosos,3. Transporte aéreo
+2.2.4.4.0,22440,2. TECNOLÓGICOS,2. Produtos perigosos,4. Transporte de produtos perigosos,4. Transporte dutoviário
+2.2.4.5.0,22450,2. TECNOLÓGICOS,2. Produtos perigosos,4. Transporte de produtos perigosos,5. Transporte marítimo
+2.2.4.6.0,22460,2. TECNOLÓGICOS,2. Produtos perigosos,4. Transporte de produtos perigosos,6. Transporte aquaviário
+2.3.1.1.0,23110,2. TECNOLÓGICOS,3. Incêndios urbanos,1. Incêndios urbanos,"1. Incêndios em plantas/distritos industriais, parques e depósitos"
+2.3.1.2.0,23120,2. TECNOLÓGICOS,3. Incêndios urbanos,1. Incêndios urbanos,2. Incêndios em aglomerados residenciais
+2.4.1.0.0,24100,2. TECNOLÓGICOS,4. Obras civis,1. Colapso de edificações,0
+2.4.2.0.0,24200,2. TECNOLÓGICOS,4. Obras civis,2. Rompimento/colapso de barragens,0
+2.5.1.0.0,25100,2. TECNOLÓGICOS,5. Transporte de passageiros e cargas não perigosas,1. Transporte rodoviário,0
+2.5.2.0.0,25200,2. TECNOLÓGICOS,5. Transporte de passageiros e cargas não perigosas,2. Transporte ferroviário,0
+2.5.3.0.0,25300,2. TECNOLÓGICOS,5. Transporte de passageiros e cargas não perigosas,3. Transporte aéreo,0
+2.5.4.0.0,25400,2. TECNOLÓGICOS,5. Transporte de passageiros e cargas não perigosas,4. Transporte marítimo,0
+2.5.5.0.0,25500,2. TECNOLÓGICOS,5. Transporte de passageiros e cargas não perigosas,5. Transporte aquaviário,0

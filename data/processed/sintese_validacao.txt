@@ -1,0 +1,16 @@
+
+╔══════════════════════════════════════════════════════════════════╗
+║         SÍNTESE DA VALIDAÇÃO EMPÍRICA — ETAPA RESULTADOS        ║
+╠══════════════════════════════════════════════════════════════════╣
+║  Municípios analisados          :  5,529                         ║
+║  Faixa ALTA (score original)    :     30                         ║
+║  Faixa MÉDIA (score original)   :    676                         ║
+║  Com histórico de desastre      :    384                         ║
+║  Invisíveis (ALTA sem histórico):     21                         ║
+╠══════════════════════════════════════════════════════════════════╣
+║  Correlação Spearman (score × eventos): ρ = 0.078  p = 0.0000  ║
+╠══════════════════════════════════════════════════════════════════╣
+║  Score ampliado (IVS + CadÚnico + Exposição histórica):         ║
+║    Faixa CRÍTICA preenchida     :      6 municípios             ║
+║    Faixa ALTA                   :    453 municípios             ║
+╚══════════════════════════════════════════════════════════════════╝
